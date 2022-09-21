@@ -178,7 +178,7 @@ int main()
     file.open(s, std::ios::app);
     vector<vector<Edge>> sortedEdges(maxWeight);
 
-for(int i = n1; i < n2; ++i) // n = 2^17  - Crash
+for(int i = n1; i <= n2; ++i) // n = 2^17  - Crash
 {   int n = 1 << i;
     file << "n = 2^" << i << " p = " << p << " Max weight = " << maxWeight << endl;
     cout << "Launch with n = 2^" << i;
