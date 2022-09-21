@@ -1,0 +1,80 @@
+n = 2^10 p = 0.3
+24 ms for generation
+0 ms for Kruskal optimized
+
+20 ms for generation
+0 ms for Kruskal optimized
+
+20 ms for generation
+0 ms for Kruskal optimized
+
+n = 2^11 p = 0.3
+83 ms for generation
+2 ms for Kruskal optimized
+
+81 ms for generation
+2 ms for Kruskal optimized
+
+80 ms for generation
+2 ms for Kruskal optimized
+
+n = 2^12 p = 0.3
+330 ms for generation
+9 ms for Kruskal optimized
+
+318 ms for generation
+9 ms for Kruskal optimized
+
+314 ms for generation
+9 ms for Kruskal optimized
+
+n = 2^13 p = 0.3
+1321 ms for generation
+38 ms for Kruskal optimized
+
+1258 ms for generation
+38 ms for Kruskal optimized
+
+1257 ms for generation
+38 ms for Kruskal optimized
+
+n = 2^10 p = 0.3
+24 ms for generation
+21 ms for Kruskal not optimized
+
+20 ms for generation
+22 ms for Kruskal not optimized
+
+20 ms for generation
+22 ms for Kruskal not optimized
+
+n = 2^11 p = 0.3
+83 ms for generation
+176 ms for Kruskal not optimized
+
+79 ms for generation
+176 ms for Kruskal not optimized
+
+79 ms for generation
+179 ms for Kruskal not optimized
+
+n = 2^12 p = 0.3
+329 ms for generation
+1405 ms for Kruskal not optimized
+
+315 ms for generation
+1401 ms for Kruskal not optimized
+
+315 ms for generation
+1404 ms for Kruskal not optimized
+
+n = 2^13 p = 0.3
+1319 ms for generation
+11206 ms for Kruskal not optimized
+
+1261 ms for generation
+11210 ms for Kruskal not optimized
+
+1264 ms for generation
+11176 ms for Kruskal not optimized
+
